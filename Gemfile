@@ -37,6 +37,8 @@ gem 'autoprefixer-rails'
 gem 'sass-mediaqueries-rails'
 # Provies large library of icons
 gem 'font-awesome-rails'
+# Bourbon is a library of pure Sass mixins
+gem 'bourbon'
 
 # +++
 
