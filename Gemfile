@@ -35,6 +35,8 @@ gem 'turbolinks'
 gem 'autoprefixer-rails'
 # Media Queries mixins for Sass
 gem 'sass-mediaqueries-rails'
+# Provies large library of icons
+gem 'font-awesome-rails'
 
 # +++
 
