@@ -3,10 +3,15 @@
   height: 100%
   margin: 0px
   padding: 0px
-  padding-top: 80px
 
   background:
     image: image-url('background.jpg')
     position: center
     size: cover
     repeat: no-repeat
+  @include max-screen(740px)
+    background: none
+
+  padding-top: 80px
+  @include max-screen(740px)
+    padding-top: 0px
